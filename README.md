@@ -1,4 +1,4 @@
-# Web Scraping: Scrapy vs Selenium
+## Taller 1
 
 ## Cuadro Comparativo
 
@@ -9,5 +9,5 @@
 
 ---
 
-**Autor:** Tomas Benavides
+**Autor:** Tomas Benavides Calderon Sexto Semestre
 # taller1herramientas
